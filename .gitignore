@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+*.pth
+*.pt
+*.h5
+*.ckpt
+data/
+.vscode/
+.idea/
